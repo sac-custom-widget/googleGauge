@@ -8349,8 +8349,6 @@
         ]);
 
         var options = {
-          width: 400,
-          height: 120,
           redFrom: 90,
           redTo: 100,
           yellowFrom: 75,
